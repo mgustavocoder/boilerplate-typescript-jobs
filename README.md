@@ -7,6 +7,7 @@
 - dotenv with **Dev** and **Prod** env files.
 - Dockerfile
 - VSCode Debbuger
+- Github Actions Quality Check (test, lint, audit)
 
 ## Running locally
 - Requires node ^16.0.0
