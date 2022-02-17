@@ -2,7 +2,7 @@
 
 ## Tooling
 - Jest for tests.
-- Eslint with standart config for lint.
+- Eslint with standard shareable config for lint.
 - Husky as pre-commit checker (test, lint, audit).
 - dotenv with **Dev** and **Prod** env files.
 - Dockerfile
