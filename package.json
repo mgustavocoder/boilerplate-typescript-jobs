@@ -1,7 +1,7 @@
 {
   "name": "boilerplate-typescript",
   "version": "1.0.0",
-  "description": "My boilerplate project with typescript for Jobs.",
+  "description": "My boilerplate typescript project for jobs.",
   "type": "module",
   "engines": {
     "node": "^16.0.0"
