@@ -1,4 +1,4 @@
-# My boilerplate project with typescript for Jobs.
+# My boilerplate typescript project for jobs.
 
 ## Tooling
 - Jest for tests.
